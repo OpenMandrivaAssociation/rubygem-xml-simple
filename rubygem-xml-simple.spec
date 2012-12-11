@@ -37,3 +37,10 @@ rm -rf %{buildroot}
 %doc %{ruby_gemdir}/doc/%{oname}-%{version}
 %{ruby_gemdir}/cache/%{oname}-%{version}.gem
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
+
+
+%changelog
+* Fri Dec 10 2010 Rémy Clouard <shikamaru@mandriva.org> 1.0.12-1mdv2011.0
++ Revision: 620455
+- import rubygem-xml-simple
+
