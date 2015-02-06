@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    1.0.12
-Release:    %mkrel 1
+Release:    2
 Summary:    A simple API for XML processing
 Group:      Development/Ruby
 License:    GPLv2+ or Ruby License
