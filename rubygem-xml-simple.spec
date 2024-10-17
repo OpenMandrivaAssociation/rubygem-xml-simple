@@ -6,7 +6,7 @@ Release:    2
 Summary:    A simple API for XML processing
 Group:      Development/Ruby
 License:    GPLv2+ or Ruby License
-URL:        http://xml-simple.rubyforge.org
+URL:        https://xml-simple.rubyforge.org
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
